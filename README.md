@@ -1,3 +1,15 @@
+# Notes
+## JSX Rules
+- JSX Rules
+- returning single element
+- div/section/article/fragment
+- use camelCase for html attribute
+- className instead of class
+- close every element
+- formatting
+
+## events study links
+https://reactjs.org/docs/events.html
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
